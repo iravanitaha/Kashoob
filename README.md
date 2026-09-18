@@ -16,15 +16,6 @@
 
 A seamless, native Linux wrapper for [Kashoob.com](https://kashoob.com), bringing the ultimate Persian elegy (Madahi) and religious audio streaming experience directly to your desktop.
 
-## ✨ Features
-
-* **Native GTK Integration:** Built with GTK4 and Libadwaita to feel like a first-class citizen on GNOME and modern Linux desktops.
-* **Smart Installer:** Automatically detects your Linux distribution (Ubuntu/Debian, Fedora, Arch, openSUSE) and installs all required dependencies.
-* **Immersive Dark Mode:** Locked to a beautiful `#18181B` dark theme to perfectly match Kashoob's design, preventing harsh white flashes during loading.
-* **Clean UI:** Includes custom CSS injections that hide the top banner flag for a minimal, distraction-free edge-to-edge window style.
-* **RTL Optimized:** Specifically built to prevent the horizontal scroll bugs that are common in Right-to-Left (RTL) web wrappers.
-* **Keyboard Navigation:** Navigate the app natively using `Alt + Left` (Back) and `Ctrl + R` / `F5` (Refresh).
-
 ## 🚀 Installation
 
 We provide a smart bash installer that will automatically detect your OS, install any missing dependencies, download the app icon, and set up your GNOME desktop shortcut!
