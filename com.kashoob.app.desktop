@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Kashoob
+Comment=Listen to Kashoob tracks online (GTK4 + Libadwaita App)
+Exec=kashoob-app
+Icon=com.kashoob.app
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;Music;Network;
