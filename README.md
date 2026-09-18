@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://kashoob.com/static/images/icon-512x512.png" alt="Kashoob Logo" width="120" />
+  <img src="./assets/logo.png" alt="Kashoob Logo" width="120" />
   <h1>Kashoob Desktop (Unofficial)</h1>
   <p><i>A beautiful, native GTK4/Libadwaita Linux desktop client for Kashoob.com</i></p>
 
@@ -9,6 +9,10 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="./assets/screenshot.png" alt="Kashoob Desktop Screenshot" width="800" />
+</div>
 
 A seamless, native Linux wrapper for [Kashoob.com](https://kashoob.com), bringing the ultimate Persian elegy (Madahi) and religious audio streaming experience directly to your desktop.
 
